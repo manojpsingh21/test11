@@ -11,6 +11,6 @@ ljjnhdskjcnsk
 
 skldcndkjchsk
 
-
+https://nsearchives.nseindia.com/web/sites/default/files/inline-files/TP_CM_Trimmed_NNF_PROTOCOL_5.7_0.pdf
 
 I'm trying to integrate Slixmpp with Ejabberd using the example in the Slixmpp documentation ("Send a Message and Logout"). Despite debugging and changing several Ejabberd settings, I'm still unable to connect to the server or send messages to a specific client. Can anyone help me with this?
